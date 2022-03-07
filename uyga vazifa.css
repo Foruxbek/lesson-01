@@ -1,0 +1,146 @@
+.body{
+    background-color: gold;
+}
+.div1{
+    width: 400px;
+    height: 620px;
+    background-color: rgb(255, 255, 255);
+    margin-left: 35%;
+
+}
+.img{
+    width: 400px;
+    height: 260px;
+
+}
+.h1{
+    font-family: sans-serif;
+    padding-left: 25px;
+    font-size: 25px;
+    font-weight: 700;
+    
+}
+.select{
+    margin-left: 55px;
+    padding: 4px 10px;
+    background-color:rgb(255, 255, 255);
+    color: #fcaf21;
+    font-size: 20px;
+    font-weight: 700;
+    outline: none;
+    border: 3px solid #fcaf21;
+    border: none;
+    
+}
+.p{
+    color: rgba(0, 0, 0, 0.418);
+    font-family: sans-serif;
+    padding-left: 25px;
+    font-weight: 600;
+    font-size: 20px;
+}
+.h2{
+    padding-left: 25px;
+    font-family: sans-serif;
+    font-size: 18px;
+}
+.ul{
+    display: flex;
+    list-style-type: none;
+    padding-left: 15px;
+    font-size: 20px;
+    
+}
+.li{
+    margin-left: 15px;
+    color: #fcaf21;
+    font-family: sans-serif;
+    font-weight: 600;
+}
+.er{
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    background-color: #fcaf21;
+    color: white;
+    font-weight: 700;
+    font-size: 17px;
+    border: none;
+    outline: none;
+    box-shadow: 0px 0px 4px 3px  rgb(215, 228, 35);
+}
+.h3{
+    padding-left: 25px;
+    font-family: sans-serif;
+    font-size: 20px;
+}
+.img1{
+    height: 25px;
+    width: 35px;
+    
+}
+.button1{
+    width: 25px;
+    height: 25px;
+    border-radius: 50%;
+    background-color: rgb(187, 187, 187);
+    border: none;
+    outline: none;
+    margin-left: 25px;
+}
+.button1:focus{
+    border: 2px solid white;
+    box-shadow: 0px 0px 0px 3px  rgb(187, 187, 187);
+
+}
+.button2{
+    width: 25px;
+    height: 25px;
+    border-radius: 50%;
+    background-color: #fcaf21;
+    outline: none;
+    border: none;
+    margin-left: 25px;
+}
+.button2:focus{
+    border: 2px solid white;
+    box-shadow: 0px 0px 0px 3px  #fcaf21;
+
+}
+.button3{
+    width: 25px;
+    height: 25px;
+    border-radius: 50%;
+    background-color: rgb(21, 51, 185);
+    border: none;
+    outline: none;
+    margin-left: 25px;
+}
+.button3:focus{
+    border: 2px solid white;
+    box-shadow: 0px 0px 0px 3px  rgb(21, 51, 185);
+}
+.button4{
+    width: 162px;
+    height: 40px;
+    margin-left: 25px;
+    background-color: #fcaf21;
+    border: none;
+    outline: none;
+    color: white;
+    font-weight: 700;
+    font-family: sans-serif;
+}
+.button5{
+    width: 162px;
+    height: 40px;
+    margin-left: 19px;
+    border: 2px solid #fcaf21;
+    color: #fcaf21;
+    font-family: sans-serif;
+    font-weight: 700;
+    background:transparent;
+}
+
+
+
